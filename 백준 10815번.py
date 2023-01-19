@@ -21,3 +21,4 @@ def binary_search(target,data,start,end):
 for i in range(m):
     print(binary_search(check[i],card,0,n-1),end=' ')
 
+#
